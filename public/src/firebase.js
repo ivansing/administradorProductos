@@ -16,12 +16,7 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBhakEXj-76wuaKpZsHWBao23VbkbDlZ3Y",
-  authDomain: "mitienda-2f3cb.firebaseapp.com",
-  projectId: "mitienda-2f3cb",
-  storageBucket: "mitienda-2f3cb.appspot.com",
-  messagingSenderId: "389743102571",
-  appId: "1:389743102571:web:fb1c76dd0e6d7b8d9d7f2e",
+  // Config firebase
 };
 
 // Initialize Firebase
